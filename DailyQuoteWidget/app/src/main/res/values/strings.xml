@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Daily Quote Widget</string>
+    <string name="default_quote">Tap to get a quote!</string>
+    <string name="default_author">- Author</string>
+
+</resources>

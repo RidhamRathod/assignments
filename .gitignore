@@ -1,0 +1,10 @@
+# Ignore build files
+build/
+.gradle/
+.idea/
+*.iml
+*.log
+
+# Ignore user-specific files
+local.properties
+*.keystore
